@@ -28,6 +28,7 @@ Hier findest du meine wichtigsten Arbeiten:
 Du erreichst mich am besten über:
 - [LinkedIn](https://www.linkedin.com/in/vadym-shepel)
 - [XING](https://www.xing.com/profile/Vadym_Shepel)
+- [WhatsApp](https://wa.me/4915568618208)
 - [Telegram](https://t.me/basalten)
 - [E-Mail](mailto:vadyms0102@gmail.com?subject=Anfrage%20über%20GitHub)
 
