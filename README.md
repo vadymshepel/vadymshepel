@@ -12,9 +12,9 @@ Ich schlage die Brücke zwischen Theorie und Praxis – von der Systemadministra
 ### 🛠 Aktuelle Projekte
 Hier findest du meine wichtigsten Arbeiten:
 
-*   **[Name deines neuen Projekts]** – *In Entwicklung*
+<!--*   **[Name deines neuen Projekts]** – *In Entwicklung*
     *   Kurze Beschreibung: Was macht das Projekt? (z.B. Automatisierung von X, Integration von Y).
-    *   Stack: [Technologien einfügen]
+    *   Stack: [Technologien einfügen]-->
 *   **IoT-Integration (Bluetooth-LED)** – Analyse von Protokollen und Python-basierte Steuerung.
 *   **Voice-Controlled AI Assistant** – Desktop-Automatisierung via Speech-to-Text.
 
