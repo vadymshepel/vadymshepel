@@ -29,7 +29,7 @@ Du erreichst mich am besten über:
 - [LinkedIn](https://www.linkedin.com/in/vadym-shepel)
 - [XING](https://www.xing.com/profile/Vadym_Shepel)
 - [Telegram](https://t.me/basalten)
-- [E-Mail](vadyms0102@gmail.com)
+- [E-Mail](mailto:vadyms0102@gmail.com?subject=Anfrage%20über%20GitHub)
 
 ---
 *Cogito ergo sum*
