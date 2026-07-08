@@ -19,15 +19,17 @@ Hier findest du meine wichtigsten Arbeiten:
 *   **Voice-Controlled AI Assistant** – Desktop-Automatisierung via Speech-to-Text.
 
 ---
-
+<!--
 ### 📈 GitHub Stats
 *(Тут можно добавить виджеты статистики GitHub, если хочешь сделать профиль визуально интереснее)*
+-->
 
 ### 📬 Kontakt
 Du erreichst mich am besten über:
 - [LinkedIn](https://www.linkedin.com/in/vadym-shepel)
-- Telegram: [@basalten](https://t.me/basalten)
-- E-Mail: vadyms0102@gmail.com
+- [XING](https://www.xing.com/profile/Vadym_Shepel)
+- [Telegram](https://t.me/basalten)
+- [E-Mail](vadyms0102@gmail.com)
 
 ---
 *Cogito ergo sum*
